@@ -1,0 +1,9 @@
+﻿<Application x:Class="DiepIOaimbot.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DiepIOaimbot"
+             StartupUri="Aimbot.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
